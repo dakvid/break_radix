@@ -15,6 +15,21 @@
     "last_modified": "2018-11-04T18:32:49+13:00"
   },
   {
+    "path": "posts/yesterday/",
+    "title": "Yesterday on My Blog",
+    "description": "I wrote something yesterday too",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2018-11-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2018-11-04T18:37:45+13:00"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",

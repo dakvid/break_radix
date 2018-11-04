@@ -1,0 +1,19 @@
+---
+title: "Yesterday on My Blog"
+description: |
+  I wrote something yesterday too
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 11-03-2018
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+Third post
+
+
+
