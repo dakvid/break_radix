@@ -1,0 +1,19 @@
+---
+title: "Today My Blog"
+description: |
+  I have a new blag post today
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 11-04-2018
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+Second post
+
+
+
